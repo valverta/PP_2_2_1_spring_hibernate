@@ -22,4 +22,12 @@ public class Car {
     public String toString() {
         return model;
     }
+
+    public int getSeries() {
+        return series;
+    }
+
+    public String getModel() {
+        return model;
+    }
 }
