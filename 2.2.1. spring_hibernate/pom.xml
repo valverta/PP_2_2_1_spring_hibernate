@@ -36,6 +36,13 @@
             <version>8.0.25</version>
         </dependency>
 
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/javax.transaction/jta &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>javax.transaction</groupId>-->
+<!--            <artifactId>jta</artifactId>-->
+<!--            <version>1.1</version>-->
+<!--        </dependency>-->
+
     </dependencies>
 
 
