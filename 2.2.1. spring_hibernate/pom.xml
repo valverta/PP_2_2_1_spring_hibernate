@@ -36,12 +36,27 @@
             <version>8.0.25</version>
         </dependency>
 
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/javax.transaction/jta &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>javax.transaction</groupId>-->
-<!--            <artifactId>jta</artifactId>-->
-<!--            <version>1.1</version>-->
-<!--        </dependency>-->
+        <!-- https://mvnrepository.com/artifact/javax.transaction/jta -->
+        <dependency>
+            <groupId>javax.transaction</groupId>
+            <artifactId>jta</artifactId>
+            <version>1.1</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa -->
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-jpa</artifactId>
+            <version>2.7.6</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager -->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-entitymanager</artifactId>
+            <version>5.6.3.Final</version>
+        </dependency>
+
 
     </dependencies>
 
